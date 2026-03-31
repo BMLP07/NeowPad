@@ -18,4 +18,4 @@ Macropad designed for productivity with function customizable keys and rotatory 
 # Design
 | Schematic | PCB | CAD |
 | :---: | :---: | :---: |
-|![Schem] |![PCB]|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png) |
+|![Schem](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/Schem.png) |![PCB](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/PCB.png)|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png) |
