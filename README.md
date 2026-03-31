@@ -19,3 +19,7 @@ Macropad designed for productivity with function customizable keys and rotatory 
 | Schematic | PCB | CAD |
 | :---: | :---: | :---: |
 |![Schem](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/Schem.png) |![PCB](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/PCB.png)|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png) |
+
+# Comments
+It has been a lovely journey learning how to design a PCB in KiCAD, the case in CAD programs and learning how to code a firmware for a macropad. Thanks for the opportunity!
+The firmware is yet to customize more
