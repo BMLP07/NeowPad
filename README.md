@@ -33,10 +33,10 @@ A medium-sized 15-key macropad with a rotatory encoder. The encoder and every ke
 
 ## File descriptions
 
-**CAD**: Contains .stp/.step files and .f3b files.
-**Firmware**: Contains KMK python file.
-**PCB**: Contains gerber.zip (for production), PCB schematic and layout.
-**Production**: All files necessary for the production of the macropad.
+- **CAD**: Contains .stp/.step files and .f3b files.
+- **Firmware**: Contains KMK python file.
+- **PCB**: Contains gerber.zip (for production), PCB schematic and layout.
+- **Production**: All files necessary for the production of the macropad.
 
 ## Comments
 It has been a lovely journey learning how to design a PCB in KiCAD, the case in CAD programs and learning how to code a firmware for a macropad. <br> Thanks for the opportunity and eager to learn more about hardware, software and more!
