@@ -1,23 +1,21 @@
 <div align="center">
   
 # NeowPad
-Macropad designed for productivity with customizable keys and rotatory encoder.
+Macropad designed for productivity with customizable encoder and keys
 
 </div>
 
 
 ## Description
+A medium-sized 15-key macropad with a rotatory encoder. The encoder and every key can be customized as wished on the firmware powered by a XIAO RP2040
 
-I’ve developed a custom 15-key macropad designed to bridge the gap between hardware and high-efficiency workflows. Key features include:
-
-- **Fully Programmable**: Leveraging KMK for deep customization of single inputs, system shortcuts, and complex macros.
-- **Rotary Encoder**: Dedicated tactile hardware for adjusting system settings like volume, brightness, or application-specific parameters.
-- **Productivity-First Design**: Engineered to automate repetitive tasks across professional software suites and OS environments.
-
-Future Roadmap
-
-- **Modular Layouts**: Developing interchangeable PCB designs to support diverse ergonomic and task-specific key configurations.
-- **Hardware Versatility**: Transitioning toward a scalable architecture that allows for rapid iteration of physical layouts without firmware modification.
+## Features
+- Every key can be customized as well as the encoder
+- Main functions are single-input, multiple-input and macros.
+  
+**Future plans:**
+- Not a single layout but multiple for different task (work, games, ...)
+- Key-pressed combinations for more functionality
 
 ## BOM
 - 1x Unsoldered Seeed XIAO RP2040
@@ -34,4 +32,4 @@ Future Roadmap
 |![Schem](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/Schem.png) |![PCB](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/PCB.png)|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png) |
 
 ## Comments
-It has been a lovely journey learning how to design a PCB in KiCAD, the case in CAD programs and learning how to code a firmware for a macropad. Thanks for the opportunity!
+It has been a lovely journey learning how to design a PCB in KiCAD, the case in CAD programs and learning how to code a firmware for a macropad. <br> Thanks for the opportunity and eager to learn more about hardware, software and more!
