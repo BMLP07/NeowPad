@@ -8,7 +8,16 @@ Macropad designed for productivity with customizable keys and rotatory encoder.
 
 ## Description
 
-This project features a mid-sized, 15-key matrix paired with a multi-function rotary encoder, fully customizable via the KMK firmware. Designed for versatile workflows, the device supports a wide range of inputs from standard alphanumeric strings to complex multi-stroke system shortcuts and advanced productivity macros. The integrated rotary encoder provides control over system-level parameters, such as volume modulation and media navigation, offering a streamlined interface for professional creative and administrative tasks.
+I’ve developed a custom 15-key macropad designed to bridge the gap between hardware and high-efficiency workflows. Key features include:
+
+- **Fully Programmable**: Leveraging KMK for deep customization of single inputs, system shortcuts, and complex macros.
+- **Rotary Encoder**: Dedicated tactile hardware for adjusting system settings like volume, brightness, or application-specific parameters.
+- **Productivity-First Design**: Engineered to automate repetitive tasks across professional software suites and OS environments.
+
+Future Roadmap
+
+- **Modular Layouts**: Developing interchangeable PCB designs to support diverse ergonomic and task-specific key configurations.
+- **Hardware Versatility**: Transitioning toward a scalable architecture that allows for rapid iteration of physical layouts without firmware modification.
 
 ## BOM
 - 1x Unsoldered Seeed XIAO RP2040
