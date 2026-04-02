@@ -27,9 +27,15 @@ A medium-sized 15-key macropad with a rotatory encoder. The encoder and every ke
 - 4x M3x5mx4mm heatset inserts
 
 ## Design
-| Schematic | PCB | CAD |
-| :---: | :---: | :---: |
-|![Schem](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/Schem.png) |![PCB](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/PCB.png)|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png) |
+| Schematic |
+|:---:|
+|![Schem](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/Schem.png)|
+|PCB|
+|:---:|
+|![PCB](https://github.com/BMLP07/NeowPad/blob/16d9dfea4d37c5720c50d257a528abf3329d4141/img/PCB.png)|
+|CAD|
+|:---:|
+|![CAD](https://github.com/BMLP07/NeowPad/blob/396eb6ec510fceb3ea8926ea972ad6c17ad4234c/img/Design%20Assembled.png)|
 
 ## File descriptions
 
