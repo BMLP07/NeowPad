@@ -45,3 +45,8 @@ A medium-sized 15-key macropad with a rotatory encoder. The encoder and every ke
 
 ## Comments
 It has been a lovely journey learning how to design a PCB in KiCAD, the case in CAD programs and learning how to code a firmware for a macropad. <br> Thanks for the opportunity and eager to learn more about hardware, software and more!
+<div align="center">
+  
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FBMLP07%2FNeowPad&label=Visitor+count&icon=people-fill&color=%23a98eda&message=&style=for-the-badge&tz=Europe%2FMadrid)
+
+</div>
