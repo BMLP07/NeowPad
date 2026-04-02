@@ -18,6 +18,7 @@ A medium-sized 15-key macropad with a rotatory encoder. The encoder and every ke
 - Key-pressed combinations for more functionality
 
 ## BOM
+- 1x Case (Top & Bottom)
 - 1x Unsoldered Seeed XIAO RP2040
 - 15x MX-Style switches
 - 15x White blank DSA keycaps
@@ -27,15 +28,13 @@ A medium-sized 15-key macropad with a rotatory encoder. The encoder and every ke
 - 4x M3x5mx4mm heatset inserts
 
 ## Design
-| Schematic |
-|:---:|
-|![Schem](img/NeowPad_Schematic.svg)|
-|PCB|
-|:---:|
-|![PCB](img/NeowPad_PCB.svg)|
-|CAD|
-|:---:|
-|![CAD](img/Design_Assembled.png)|
+| **Schematic** |
+| :---: |
+| ![Schem](img/NeowPad_Schematic.svg) |
+| **PCB** |
+| ![PCB](img/NeowPad_PCB.svg) |
+| **CAD** |
+| ![CAD](img/Design_Assembled.png) |
 
 ## File descriptions
 
