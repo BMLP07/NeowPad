@@ -18,7 +18,7 @@ keyboard.modules.append(encoder_handler)
 keyboard.extensions.append(MediaKeys())
 
 # Define the key matrix
-keyboard.row_pins = (board.D8, board.D10, board.D9) 
+keyboard.row_pins = (board.D8, board.D9, board.D10) 
 keyboard.col_pins = (board.D0, board.D1, board.D2, board.D3, board.D4)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
@@ -27,22 +27,17 @@ encoder_handler.pins = (
     (board.D5, board.D6, board.D7, True),
 )
 
-# Macros 
-MAIL_MACRO = KC.MACRO("esto funciona")
-
-LOCK_PC  = KC.LWIN(KC.L)
-
 # Keymap
 keyboard.keymap = [
     [
         # First row D8
-        LOCK_PC, KC.NO, MAIL_MACRO, KC.NO, KC.N0,
+        KC.LWIN(KC.L), KC.LALT(KC.F4), KC.LWIN(KC.TAB), KC.LWIN(KC.LCTL(KC.LEFT)), KC.LWIN(KC.LCTL(KC.RIGHT)),
         
-        # Second row D10
-        KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, 
+        # Second row D9
+        KC.LCTL(KC.LSHIFT(KC.ESC)), KC.LWIN(KC.I), KC.LWIN(KC.D), KC.LALT(KC.LSHIFT(KC.ESC)), KC.LALT(KC.ESC),
         
-        # Third row D9
-        KC.A,  KC.B,  KC.C,  KC.D,  KC.E,
+        # Third row D10
+        KC.LWIN(KC.R), KC.LWIN(KC.E), KC.LCTL(KC.LSHIFT(KC.S)), KC.LCTL(KC.LSHIFT(KC.TAB)), KC.LCTL(KC.TAB),
     ]
 ]
 
